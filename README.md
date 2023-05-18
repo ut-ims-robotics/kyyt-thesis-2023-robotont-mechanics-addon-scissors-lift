@@ -16,7 +16,7 @@ Kõik komponendid on esitatud [Exceli tabelis](https://github.com/ut-ims-robotic
 ## 3D model of Scissor lift for Robotont 
 ![Robotont Lift Mechanism Down View 1](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/assets/90620421/c4a399f6-e8d9-4edb-95b2-81b29373a37f)
 
-## Parts created for the lifting mechanism along with the CAD file name / Tõstemehhanismile loodud osad koos CAD faili nimega.
+# Created parts for mechanism / Loodud detailid mehhanismi jaoks
 | Detail Name / Detaili nimi | Pictures / Pildid |
 | -------------- | -------------- |
 | Screen case / Ekraani korpus (Screen Bottom.par & Screen Top.par)  |  ![Screen Case](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/assets/90620421/26521b46-c029-499f-8c1d-b05361c68eb9) |
