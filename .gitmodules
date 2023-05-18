@@ -1,0 +1,3 @@
+[submodule "robotont-mechanics-addon-scissors-lift"]
+	path = robotont-mechanics-addon-scissors-lift
+	url = https://github.com/robotont/robotont-mechanics-addon-scissors-lift.git
