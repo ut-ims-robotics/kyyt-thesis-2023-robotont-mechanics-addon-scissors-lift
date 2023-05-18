@@ -2,12 +2,16 @@
 ## ENG
 Welcome to the repository for Robotont's mechanics Addon Scissor lift! In this repository, you will find an assortment of visual assets, including pictures, renders, sketches, and videos that showcase the development and capabilities of Robotont.  
 
-Production files can be found from my another [repository](https://github.com/robotont/robotont-mechanics-addon-scissors-lift).
+Production files can be found from my another [repository](https://github.com/robotont/robotont-mechanics-addon-scissors-lift).  
+
+All the components are presented in an [Excel table](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/blob/main/Robotont's%20Scissor%20Lift%20Component%20BOM.pdf), which includes the names of the used components, quantities, weights, and the total weight of the mechanism.
 
 ## EST 
 Tere tulemast Robotonti käärtõstuki mehaanika hoidlasse! Selles hoidlas leiate mitmesuguseid visuaalseid ressursse, sealhulgas pilte, renderdusi, visandeid ja videosid, mis näitavad Robotonti arengut ja võimeid.
 
 Tootmisfailid leiate minu teisest [hoidlast](https://github.com/robotont/robotont-mechanics-addon-scissors-lift).
+
+Kõik komponendid on esitatud [Exceli tabelis](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/blob/main/Robotont's%20Scissor%20Lift%20Component%20BOM.pdf), milles on välja toodud kasutatud komponentide nimed, tükid, kaalud ning kogu mehhanismi kaal.
 
 ## 3D model of Scissor lift for Robotont 
 ![Robotont Lift Mechanism Down View 1](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/assets/90620421/c4a399f6-e8d9-4edb-95b2-81b29373a37f)
