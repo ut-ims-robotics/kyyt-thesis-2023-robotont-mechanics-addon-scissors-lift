@@ -9,7 +9,7 @@ Tere tulemast Robotonti käärtõstuki mehaanika hoidlasse! Selles hoidlas leiat
 
 Tootmisfailid leiate minu teisest [hoidlast](https://github.com/robotont/robotont-mechanics-addon-scissors-lift).
 
-
+## 3D model of Scissor lift for Robotont 
 ![Robotont Lift Mechanism Down View 1](https://github.com/ut-ims-robotics/kyyt-thesis-2023-robotont-mechanics-addon-scissors-lift/assets/90620421/c4a399f6-e8d9-4edb-95b2-81b29373a37f)
 
 
